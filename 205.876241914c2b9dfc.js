@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkng_ant_admin=self.webpackChunkng_ant_admin||[]).push([[205],{205:(a,n,o)=>{o.r(n),o.d(n,{default:()=>t});const t=[{path:"zorro-doc",data:{title:"zorro\u6587\u6863",key:"zorro-doc"},loadComponent:()=>o.e(1018).then(o.bind(o,1018)).then(d=>d.ZorroDocComponent)},{path:"",redirectTo:"zorro-doc",pathMatch:"full"}]}}]);
