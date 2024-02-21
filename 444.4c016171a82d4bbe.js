@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkng_ant_admin=self.webpackChunkng_ant_admin||[]).push([[444],{444:(l,t,n)=>{n.r(t),n.d(t,{default:()=>d});const d=[{path:"",redirectTo:"menu1",pathMatch:"full"},{path:"menu1",loadChildren:()=>n.e(1840).then(n.bind(n,1840))},{path:"menu2",data:{title:"Menu2",key:"menu2"},loadComponent:()=>n.e(9216).then(n.bind(n,9216)).then(h=>h.Menu2Component)}]}}]);

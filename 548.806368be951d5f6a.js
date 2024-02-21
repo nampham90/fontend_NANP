@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkng_ant_admin=self.webpackChunkng_ant_admin||[]).push([[548],{548:(h,n,t)=>{t.r(n),t.d(n,{default:()=>a});const a=[{path:"",redirectTo:"flow-chat",pathMatch:"full"},{path:"flow-chat",data:{title:"S\u01a1 \u0111\u1ed3",key:"flow-chat"},loadComponent:()=>Promise.all([t.e(5072),t.e(1400)]).then(t.bind(t,9020)).then(l=>l.FlowChatComponent)}]}}]);
